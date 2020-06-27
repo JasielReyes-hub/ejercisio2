@@ -1,0 +1,9 @@
+body{
+	background-color: orange;
+	padding: 2px;
+	margin: 20%
+
+}
+#opcion, #voto, #region{
+	font-family: fantasy;
+}
